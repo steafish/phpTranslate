@@ -1,0 +1,18 @@
+{
+    "name": "steafish/translate",
+    "description": "A client for Steafish translate iUsing this client, all you need to do is to add your configuration in config/steafish.php and the env-file. When that is done, you are ready get your international site be up to date",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Steafish\\Translate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Steafish"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
